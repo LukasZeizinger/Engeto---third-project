@@ -1,3 +1,12 @@
+"""
+main.py: třetí projekt do Engeto Online Python Akademie
+author: Lukas Zeizinger
+email: zeizingerlukas@gmail.com
+discord: Lukáš Zeizinger _nantuko
+"""
+
+
+
 # importing the module 
 import sys 
 import requests
