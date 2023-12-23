@@ -76,7 +76,7 @@ python script_name.py 'area_link' 'output_file.csv'
 * "output_file.csv": The name of the CSV file where the scraped data will be saved.
 
 ```bash
-python script_name.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103' 'prostejov.csv'
+python main.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103' 'prostejov.csv'
 ```
 
 
